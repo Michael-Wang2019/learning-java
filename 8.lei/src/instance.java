@@ -12,7 +12,8 @@ public class instance {
         System.out.println(m1.count);
         System.out.println(m1.price);
 
-
+//点操作符是用来访问/操作前面实体的属性的，类似于"的"
+//merchandise.name可以读作merchandise的name.
         m1.name = "茉莉花茶20包";
         m1.id = "000099518";
         m1.count = 1000;
