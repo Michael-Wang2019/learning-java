@@ -9,7 +9,7 @@ public class arrayisclass {
         intArr = new int[2];
 //这个数组的元素是二维的double数组，即double[][]
         double[][][] double3Darray;
-
+//多维数组就是数组的数组
         int[] a1 = new int[9];
         int[] a2 = new int[0];
 
