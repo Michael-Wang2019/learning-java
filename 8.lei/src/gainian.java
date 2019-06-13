@@ -33,7 +33,7 @@ m1是一个Merchandise类型的引用，只能指向Merchandise类型的实例
         System.out.println("m4=" + m4);
         System.out.println("m5=" + m5);
 
-        
+
 
 
 // java中的数据类型分为基本数据类型和引用数据类型（数组变量和对象变量）
